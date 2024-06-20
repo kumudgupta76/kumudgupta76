@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kumudgupta76@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u4fIgHIp91FM8qqs0q90kPHkumD5N0U8/view?usp=sharing](https://drive.google.com/file/d/1u4fIgHIp91FM8qqs0q90kPHkumD5N0U8/view?usp=sharing)
+- 📄 [Know about my experiences](https://kumudgupta76.gitlab.io/profile/files/KumudGupta.pdf)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
