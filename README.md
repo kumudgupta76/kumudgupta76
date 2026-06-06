@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Jun 2026 : 🚀 kumudgupta76 4 commits : 🚀 my-buddy 1 commit
+    Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 1 commit
     May 2026 : 🚀 my-buddy 6 commits : 🚀 StreamAgenda 2 commits
     Apr 2026 : 🚀 my-buddy 5 commits
     Mar 2026 : 🚀 StreamAgenda 16 commits : 🚀 todo 4 commits : 🚀 money 1 commit : 🚀 JavaPlayground 1 commit
@@ -49,12 +49,13 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **107 commits** across **11 repos** in the last 12 months.
+> 🔥 **108 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[kumudgupta76](https://github.com/kumudgupta76/kumudgupta76)** — _last active 6 Jun 2026_  ·  🚀 4 commits
+- **[kumudgupta76](https://github.com/kumudgupta76/kumudgupta76)** — _last active 6 Jun 2026_  ·  🚀 5 commits
+  - [`d3f33f4`](https://github.com/kumudgupta76/kumudgupta76/commit/d3f33f41990426ba31fac31804e16250c7060bb8) Add Contribution Calander
   - [`c4f5faf`](https://github.com/kumudgupta76/kumudgupta76/commit/c4f5faf37eadc22fb7aa602e18875e602e1e6958) Make timeline
   - [`e768df3`](https://github.com/kumudgupta76/kumudgupta76/commit/e768df3b8cdfc73ff6a26971bd97e533f45a3cec) Add Commit Message to Timeline
   - [`ee9afcc`](https://github.com/kumudgupta76/kumudgupta76/commit/ee9afccd1f1e91fac0ad042b46df84b7e4b3c0b1) Fix Timeline issue
