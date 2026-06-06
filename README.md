@@ -36,12 +36,9 @@ timeline
 
 <!-- TIMELINE:START -->
 
-- **`2026-06`** — 🚀 Kicked off my **public project log** to track everything I'm building.
-- **`2026-Q1`** — ☁️ Started a focused deep dive into **Cloud Computing technologies**.
+- _No recent public activity yet. Check back soon!_
 
-<!-- Add new entries at the TOP using this format:
-- **`YYYY-MM`** — emoji **Project / milestone** — short description. [repo](link)
--->
+<sub>⏱️ Auto-updated on 2026-06-06 from my public GitHub activity.</sub>
 
 <!-- TIMELINE:END -->
 
