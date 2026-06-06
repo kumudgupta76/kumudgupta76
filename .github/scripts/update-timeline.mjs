@@ -71,12 +71,20 @@ function buildEntries(events) {
         break;
       }
       case "PushEvent": {
-        const count = ev.payload?.commits?.length ?? 0;
+        // The events API does not always include the `commits` array, so fall
+        // back to `size`/`distinct_size`, and finally to a count-less message.
+        const count =
+          ev.payload?.size ??
+          ev.payload?.distinct_size ??
+          ev.payload?.commits?.length ??
+          0;
+        // One entry per repo per day to avoid noise.
+        key = `push:${repo}:${ym(date)}-${date.getUTCDate()}`;
         if (count > 0) {
-          // One entry per repo per day to avoid noise.
-          key = `push:${repo}:${ym(date)}-${date.getUTCDate()}`;
           const plural = count === 1 ? "commit" : "commits";
           line = `🚀 Pushed ${count} ${plural} to **[${repo}](${repoUrl})**`;
+        } else {
+          line = `🚀 Pushed to **[${repo}](${repoUrl})**`;
         }
         break;
       }
