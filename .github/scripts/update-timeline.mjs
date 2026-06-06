@@ -51,7 +51,39 @@ async function fetchEvents() {
   return events;
 }
 
-function buildEntries(events) {
+// Only the first line (summary) of a commit message, trimmed and escaped.
+function commitSummary(message) {
+  const firstLine = (message ?? "").split("\n")[0].trim();
+  return firstLine.replace(/\|/g, "\\|");
+}
+
+// Fetch the actual commit messages for a push using the compare API
+// (before...head). The public events API does not include messages.
+async function fetchCommitMessages(ev) {
+  const repo = ev.repo?.name;
+  const before = ev.payload?.before;
+  const head = ev.payload?.head;
+  if (!repo || !before || !head || /^0+$/.test(before)) return [];
+
+  try {
+    const res = await fetch(
+      `https://api.github.com/repos/${repo}/compare/${before}...${head}`,
+      { headers }
+    );
+    if (!res.ok) return [];
+    const data = await res.json();
+    if (!Array.isArray(data.commits)) return [];
+    return data.commits.map((c) => ({
+      message: commitSummary(c.commit?.message),
+      url: c.html_url,
+      sha: (c.sha ?? "").slice(0, 7),
+    }));
+  } catch {
+    return [];
+  }
+}
+
+async function buildEntries(events) {
   const entries = [];
   const seen = new Set();
 
@@ -61,6 +93,7 @@ function buildEntries(events) {
     const repoUrl = `https://github.com/${repo}`;
     let line = null;
     let key = null;
+    let commits = [];
 
     switch (ev.type) {
       case "CreateEvent": {
@@ -71,21 +104,18 @@ function buildEntries(events) {
         break;
       }
       case "PushEvent": {
-        // The events API does not always include the `commits` array, so fall
-        // back to `size`/`distinct_size`, and finally to a count-less message.
+        key = `push:${repo}:${ev.payload?.head ?? date.toISOString()}`;
+        commits = await fetchCommitMessages(ev);
         const count =
-          ev.payload?.size ??
-          ev.payload?.distinct_size ??
-          ev.payload?.commits?.length ??
+          commits.length ||
+          ev.payload?.size ||
+          ev.payload?.distinct_size ||
           0;
-        // One entry per repo per day to avoid noise.
-        key = `push:${repo}:${ym(date)}-${date.getUTCDate()}`;
-        if (count > 0) {
-          const plural = count === 1 ? "commit" : "commits";
-          line = `🚀 Pushed ${count} ${plural} to **[${repo}](${repoUrl})**`;
-        } else {
-          line = `🚀 Pushed to **[${repo}](${repoUrl})**`;
-        }
+        const plural = count === 1 ? "commit" : "commits";
+        line =
+          count > 0
+            ? `🚀 Pushed **${count} ${plural}** to **[${repo}](${repoUrl})**`
+            : `🚀 Pushed to **[${repo}](${repoUrl})**`;
         break;
       }
       case "PullRequestEvent": {
@@ -113,7 +143,20 @@ function buildEntries(events) {
     if (line && key && !seen.has(key)) {
       seen.add(key);
       const label = `${date.getUTCDate()} ${MONTHS[date.getUTCMonth()]} ${date.getUTCFullYear()}`;
-      entries.push({ date, text: `- **\`${label}\`** — ${line}.` });
+      let text = `- **\`${label}\`** — ${line}.`;
+      // Nest the actual commit messages under the push entry.
+      if (commits.length > 0) {
+        const shown = commits.slice(0, 5);
+        const bullets = shown
+          .map((c) => `  - [\`${c.sha}\`](${c.url}) ${c.message}`)
+          .join("\n");
+        const more =
+          commits.length > shown.length
+            ? `\n  - …and ${commits.length - shown.length} more`
+            : "";
+        text += `\n${bullets}${more}`;
+      }
+      entries.push({ date, text });
     }
   }
 
@@ -123,7 +166,7 @@ function buildEntries(events) {
 
 async function main() {
   const events = await fetchEvents();
-  const entries = buildEntries(events);
+  const entries = await buildEntries(events);
 
   const readme = await readFile(README_PATH, "utf8");
   const startMarker = "<!-- TIMELINE:START -->";
