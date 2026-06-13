@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 1 commit
+    Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 2 commits
     May 2026 : 🚀 my-buddy 6 commits : 🚀 StreamAgenda 2 commits
     Apr 2026 : 🚀 my-buddy 5 commits
     Mar 2026 : 🚀 StreamAgenda 16 commits : 🚀 todo 4 commits : 🚀 money 1 commit : 🚀 JavaPlayground 1 commit
@@ -49,25 +49,25 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **108 commits** across **11 repos** in the last 12 months.
+> 🔥 **109 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
+- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 13 Jun 2026_  ·  🚀 13 commits
+  - [`5166171`](https://github.com/kumudgupta76/my-buddy/commit/5166171350107aee94d9f79b34207c3dc0cad1eb) Add Support for dental invoice
+  - [`7a12f5a`](https://github.com/kumudgupta76/my-buddy/commit/7a12f5aab69f2dc2789844bf962fcd78c90a77bc) Invoive generator
+  - [`1814e71`](https://github.com/kumudgupta76/my-buddy/commit/1814e712a353778a230483c54fb86013b49c0834) UI improvements
+  - [`94159f5`](https://github.com/kumudgupta76/my-buddy/commit/94159f5cb5799d46fa7fcd9ad3bafad96247fef4) new features
+  - [`49bfc45`](https://github.com/kumudgupta76/my-buddy/commit/49bfc457986bda1d849eb0212656c5888aa1459f) fix
+  - [`35cab2a`](https://github.com/kumudgupta76/my-buddy/commit/35cab2a985f90f93bc65a57773d369fc212401f7) create layouts
+  - …and 7 more commits
 - **[kumudgupta76](https://github.com/kumudgupta76/kumudgupta76)** — _last active 6 Jun 2026_  ·  🚀 5 commits
   - [`d3f33f4`](https://github.com/kumudgupta76/kumudgupta76/commit/d3f33f41990426ba31fac31804e16250c7060bb8) Add Contribution Calander
   - [`c4f5faf`](https://github.com/kumudgupta76/kumudgupta76/commit/c4f5faf37eadc22fb7aa602e18875e602e1e6958) Make timeline
   - [`e768df3`](https://github.com/kumudgupta76/kumudgupta76/commit/e768df3b8cdfc73ff6a26971bd97e533f45a3cec) Add Commit Message to Timeline
   - [`ee9afcc`](https://github.com/kumudgupta76/kumudgupta76/commit/ee9afccd1f1e91fac0ad042b46df84b7e4b3c0b1) Fix Timeline issue
   - [`2c054af`](https://github.com/kumudgupta76/kumudgupta76/commit/2c054afb84eef8f4e98072bf47b6e561b3b1e7a7) Upgrade Profile Repo
-- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 6 Jun 2026_  ·  🚀 12 commits
-  - [`7a12f5a`](https://github.com/kumudgupta76/my-buddy/commit/7a12f5aab69f2dc2789844bf962fcd78c90a77bc) Invoive generator
-  - [`1814e71`](https://github.com/kumudgupta76/my-buddy/commit/1814e712a353778a230483c54fb86013b49c0834) UI improvements
-  - [`94159f5`](https://github.com/kumudgupta76/my-buddy/commit/94159f5cb5799d46fa7fcd9ad3bafad96247fef4) new features
-  - [`49bfc45`](https://github.com/kumudgupta76/my-buddy/commit/49bfc457986bda1d849eb0212656c5888aa1459f) fix
-  - [`35cab2a`](https://github.com/kumudgupta76/my-buddy/commit/35cab2a985f90f93bc65a57773d369fc212401f7) create layouts
-  - [`335def8`](https://github.com/kumudgupta76/my-buddy/commit/335def8add2ae53da6237fc1637a55b63ff00c01) some clean up
-  - …and 6 more commits
 - **[StreamAgenda](https://github.com/kumudgupta76/StreamAgenda)** — _last active 8 May 2026_  ·  🚀 59 commits
   - [`5b08665`](https://github.com/kumudgupta76/StreamAgenda/commit/5b086654d2a3c8ce104813986e8e4456ffdb0081) Add button for presenting agenda in list mode
   - [`05391f1`](https://github.com/kumudgupta76/StreamAgenda/commit/05391f1c7f40edffec8dda5c7a82e69e77ee17f3) add white board
@@ -111,7 +111,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-06-12 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-06-13 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
