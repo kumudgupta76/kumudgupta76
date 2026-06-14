@@ -39,29 +39,29 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 2 commits
+    Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 3 commits
     May 2026 : 🚀 my-buddy 6 commits : 🚀 StreamAgenda 2 commits
     Apr 2026 : 🚀 my-buddy 5 commits
     Mar 2026 : 🚀 StreamAgenda 16 commits : 🚀 todo 4 commits : 🚀 money 1 commit : 🚀 JavaPlayground 1 commit
-    Feb 2026 : 🚀 StreamAgenda 4 commits : 🚀 birthday 4 commits
+    Feb 2026 : 🚀 StreamAgenda 4 commits
     Jan 2026 : 🚀 StreamAgenda 30 commits : 🚀 home 5 commits : 🚀 money 3 commits : 🚀 cal-app 2 commits : 🚀 profile 1 commit
     Dec 2025 : 🚀 money 9 commits : 🚀 StreamAgenda 7 commits
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **109 commits** across **11 repos** in the last 12 months.
+> 🔥 **106 commits** across **10 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 13 Jun 2026_  ·  🚀 13 commits
+- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 14 Jun 2026_  ·  🚀 14 commits
+  - [`75ba7e8`](https://github.com/kumudgupta76/my-buddy/commit/75ba7e84769a23fdd5ee48f67efaa8f0e4d516f4) Fix template for invoice
   - [`5166171`](https://github.com/kumudgupta76/my-buddy/commit/5166171350107aee94d9f79b34207c3dc0cad1eb) Add Support for dental invoice
   - [`7a12f5a`](https://github.com/kumudgupta76/my-buddy/commit/7a12f5aab69f2dc2789844bf962fcd78c90a77bc) Invoive generator
   - [`1814e71`](https://github.com/kumudgupta76/my-buddy/commit/1814e712a353778a230483c54fb86013b49c0834) UI improvements
   - [`94159f5`](https://github.com/kumudgupta76/my-buddy/commit/94159f5cb5799d46fa7fcd9ad3bafad96247fef4) new features
   - [`49bfc45`](https://github.com/kumudgupta76/my-buddy/commit/49bfc457986bda1d849eb0212656c5888aa1459f) fix
-  - [`35cab2a`](https://github.com/kumudgupta76/my-buddy/commit/35cab2a985f90f93bc65a57773d369fc212401f7) create layouts
-  - …and 7 more commits
+  - …and 8 more commits
 - **[kumudgupta76](https://github.com/kumudgupta76/kumudgupta76)** — _last active 6 Jun 2026_  ·  🚀 5 commits
   - [`d3f33f4`](https://github.com/kumudgupta76/kumudgupta76/commit/d3f33f41990426ba31fac31804e16250c7060bb8) Add Contribution Calander
   - [`c4f5faf`](https://github.com/kumudgupta76/kumudgupta76/commit/c4f5faf37eadc22fb7aa602e18875e602e1e6958) Make timeline
@@ -91,11 +91,6 @@ timeline
   - [`12ddb93`](https://github.com/kumudgupta76/todo/commit/12ddb93f6ba84cfce5379f4918c6017adad32e0c) fix config
   - [`f0e400c`](https://github.com/kumudgupta76/todo/commit/f0e400c002a4582b226529b2864daafef923ebad) Update deploy Action
   - [`5afbb63`](https://github.com/kumudgupta76/todo/commit/5afbb63e461464d88dd2821a762a05daa726f760) initial commit
-- **[birthday](https://github.com/kumudgupta76/birthday)** — _last active 3 Feb 2026_  ·  🚀 4 commits
-  - [`aecc8b9`](https://github.com/kumudgupta76/birthday/commit/aecc8b903dd4499f2ff2f22daea05f71feb436a9) fix
-  - [`763edce`](https://github.com/kumudgupta76/birthday/commit/763edcea8e3bfb322f535dc8dc31fcb0876c79ca) add counter
-  - [`f594a9e`](https://github.com/kumudgupta76/birthday/commit/f594a9ea5a0c8af56bedfb704c7bf7730a875dfd) changes
-  - [`6159860`](https://github.com/kumudgupta76/birthday/commit/6159860062e882a42f50f0ba1770741d938e989f) Initial Commit
 - **[cal-app](https://github.com/kumudgupta76/cal-app)** — _last active 11 Jan 2026_  ·  🚀 2 commits
   - [`f091fb0`](https://github.com/kumudgupta76/cal-app/commit/f091fb0476e4c9b0bbaa58fe5b56cbf528700a89) add master to pipeline
   - [`813be97`](https://github.com/kumudgupta76/cal-app/commit/813be9731ace86167e971563c04c8193266eed7a) Initial commit
@@ -108,10 +103,12 @@ timeline
 - **[profile](https://github.com/kumudgupta76/profile)** — _last active 11 Jan 2026_  ·  🚀 2 commits
   - [`d98b0f5`](https://github.com/kumudgupta76/profile/commit/d98b0f56afa55d95ceddd71227d35fed7e20b558) UI update
   - [`3bb49da`](https://github.com/kumudgupta76/profile/commit/3bb49da98b1b4c00838103353b3d1976184e640e) update experiance
+- **[mcp_server_demo](https://github.com/kumudgupta76/mcp_server_demo)** — _last active 9 Nov 2025_  ·  🚀 1 commit
+  - [`647fc08`](https://github.com/kumudgupta76/mcp_server_demo/commit/647fc08a23cdac564adcff68bfe0da0e7502b0d5) first commit
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-06-13 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-06-14 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
