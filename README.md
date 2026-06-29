@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 3 commits
+    Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 4 commits
     May 2026 : 🚀 my-buddy 6 commits : 🚀 StreamAgenda 2 commits
     Apr 2026 : 🚀 my-buddy 5 commits
     Mar 2026 : 🚀 StreamAgenda 16 commits : 🚀 todo 4 commits : 🚀 money 1 commit : 🚀 JavaPlayground 1 commit
@@ -49,19 +49,19 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **106 commits** across **10 repos** in the last 12 months.
+> 🔥 **107 commits** across **10 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 14 Jun 2026_  ·  🚀 14 commits
+- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 28 Jun 2026_  ·  🚀 15 commits
+  - [`0646529`](https://github.com/kumudgupta76/my-buddy/commit/06465292fbb4fb9fc64f67f64157c3ecb4ba8cc7) Poster Finder Caption Feature
   - [`75ba7e8`](https://github.com/kumudgupta76/my-buddy/commit/75ba7e84769a23fdd5ee48f67efaa8f0e4d516f4) Fix template for invoice
   - [`5166171`](https://github.com/kumudgupta76/my-buddy/commit/5166171350107aee94d9f79b34207c3dc0cad1eb) Add Support for dental invoice
   - [`7a12f5a`](https://github.com/kumudgupta76/my-buddy/commit/7a12f5aab69f2dc2789844bf962fcd78c90a77bc) Invoive generator
   - [`1814e71`](https://github.com/kumudgupta76/my-buddy/commit/1814e712a353778a230483c54fb86013b49c0834) UI improvements
   - [`94159f5`](https://github.com/kumudgupta76/my-buddy/commit/94159f5cb5799d46fa7fcd9ad3bafad96247fef4) new features
-  - [`49bfc45`](https://github.com/kumudgupta76/my-buddy/commit/49bfc457986bda1d849eb0212656c5888aa1459f) fix
-  - …and 8 more commits
+  - …and 9 more commits
 - **[kumudgupta76](https://github.com/kumudgupta76/kumudgupta76)** — _last active 6 Jun 2026_  ·  🚀 5 commits
   - [`d3f33f4`](https://github.com/kumudgupta76/kumudgupta76/commit/d3f33f41990426ba31fac31804e16250c7060bb8) Add Contribution Calander
   - [`c4f5faf`](https://github.com/kumudgupta76/kumudgupta76/commit/c4f5faf37eadc22fb7aa602e18875e602e1e6958) Make timeline
@@ -108,7 +108,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-06-28 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-06-29 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
