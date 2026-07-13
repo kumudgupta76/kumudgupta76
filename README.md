@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Jul 2026 : 🚀 my-buddy 5 commits
+    Jul 2026 : 🚀 my-buddy 8 commits
     Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 4 commits
     May 2026 : 🚀 my-buddy 6 commits : 🚀 StreamAgenda 2 commits
     Apr 2026 : 🚀 my-buddy 5 commits
@@ -50,19 +50,19 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **112 commits** across **10 repos** in the last 12 months.
+> 🔥 **115 commits** across **10 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 6 Jul 2026_  ·  🚀 20 commits
+- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 12 Jul 2026_  ·  🚀 23 commits
+  - [`c2d6173`](https://github.com/kumudgupta76/my-buddy/commit/c2d6173d7ae03556a3f323e3a72d1b24ee2a9309) Remove CI env debug step now that OMDB key is confirmed in build
+  - [`897a752`](https://github.com/kumudgupta76/my-buddy/commit/897a752ce85608b164772307c648596230af3fe5) Add debug step to verify OMDB/Firebase env presence in CI build
+  - [`5fe80cb`](https://github.com/kumudgupta76/my-buddy/commit/5fe80cb38b0312d4f89ac6f8d75f8c788d2907ea) Add REACT_APP_OMDB_API_KEY to deploy build env so OMDB search works on GitHub Pages
   - [`00bd691`](https://github.com/kumudgupta76/my-buddy/commit/00bd6913f408f720e531f51d359d126933b2a68c) Add divider between collage settings sections via CSS; revert collage-section-hr approach
   - [`58cb027`](https://github.com/kumudgupta76/my-buddy/commit/58cb0272a561895747b54d706db7dcdebdfff869) Use collage-section-hr dividers in Names, Caption, and Background tabs
   - [`242d7ed`](https://github.com/kumudgupta76/my-buddy/commit/242d7edb4bfc5d7c0e19997640444c0bb71c7d73) Increment collage counter on each Create collage and persist to localStorage
-  - [`0a09827`](https://github.com/kumudgupta76/my-buddy/commit/0a0982737a27ce44a96275a14862f38223a5f677) Fix gh-pages deploy: use GITHUB_TOKEN instead of SSH deploy key and fix API URL typo
-  - [`7de74a9`](https://github.com/kumudgupta76/my-buddy/commit/7de74a953afc7bdf60ee981fc43047a17e0fefa1) Fix poster collage counter to increment only when creating a new collage
-  - [`0646529`](https://github.com/kumudgupta76/my-buddy/commit/06465292fbb4fb9fc64f67f64157c3ecb4ba8cc7) Poster Finder Caption Feature
-  - …and 14 more commits
+  - …and 17 more commits
 - **[kumudgupta76](https://github.com/kumudgupta76/kumudgupta76)** — _last active 6 Jun 2026_  ·  🚀 5 commits
   - [`d3f33f4`](https://github.com/kumudgupta76/kumudgupta76/commit/d3f33f41990426ba31fac31804e16250c7060bb8) Add Contribution Calander
   - [`c4f5faf`](https://github.com/kumudgupta76/kumudgupta76/commit/c4f5faf37eadc22fb7aa602e18875e602e1e6958) Make timeline
@@ -109,7 +109,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-07-12 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-07-13 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
