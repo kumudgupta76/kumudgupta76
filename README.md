@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Aug 2026 : 🚀 my-buddy 1 commit
+    Aug 2026 : 🚀 basic-finance 5 commits : 🚀 my-buddy 1 commit
     Jul 2026 : 🚀 my-buddy 8 commits
     Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 4 commits
     May 2026 : 🚀 my-buddy 6 commits : 🚀 StreamAgenda 2 commits
@@ -51,11 +51,17 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **116 commits** across **10 repos** in the last 12 months.
+> 🔥 **121 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
+- **[basic-finance](https://github.com/kumudgupta76/basic-finance)** — _last active 28 Aug 2026_  ·  🚀 5 commits
+  - [`319a0b4`](https://github.com/kumudgupta76/basic-finance/commit/319a0b4d19b8427e74b28210b7cee6489594b77b) fix
+  - [`b2e04e7`](https://github.com/kumudgupta76/basic-finance/commit/b2e04e7742386d9562ed61dc31c17bac4298d540) Enable clickable task lists and persist checklist progress
+  - [`9817aab`](https://github.com/kumudgupta76/basic-finance/commit/9817aabe142f71561d163e0431438ef7f6e3a72e) Switch docs site to Material for MkDocs
+  - [`cac2d1e`](https://github.com/kumudgupta76/basic-finance/commit/cac2d1e5d2666357c6a676f677c14702b9eec730) Use readable labels for worksheet links instead of raw file paths
+  - [`c7d2043`](https://github.com/kumudgupta76/basic-finance/commit/c7d2043cf74bbe2a7c8089470ca05a53bc5c692d) Add 6-week Indian stock market learning site with GitHub Pages deployment
 - **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 9 Aug 2026_  ·  🚀 24 commits
   - [`4850fde`](https://github.com/kumudgupta76/my-buddy/commit/4850fde22510e92dc6bc45f3e7f6b4b53084b664) Persist poster data to local storage
   - [`c2d6173`](https://github.com/kumudgupta76/my-buddy/commit/c2d6173d7ae03556a3f323e3a72d1b24ee2a9309) Remove CI env debug step now that OMDB key is confirmed in build
@@ -105,12 +111,10 @@ timeline
 - **[profile](https://github.com/kumudgupta76/profile)** — _last active 11 Jan 2026_  ·  🚀 2 commits
   - [`d98b0f5`](https://github.com/kumudgupta76/profile/commit/d98b0f56afa55d95ceddd71227d35fed7e20b558) UI update
   - [`3bb49da`](https://github.com/kumudgupta76/profile/commit/3bb49da98b1b4c00838103353b3d1976184e640e) update experiance
-- **[mcp_server_demo](https://github.com/kumudgupta76/mcp_server_demo)** — _last active 9 Nov 2025_  ·  🚀 1 commit
-  - [`647fc08`](https://github.com/kumudgupta76/mcp_server_demo/commit/647fc08a23cdac564adcff68bfe0da0e7502b0d5) first commit
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-08-27 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-08-28 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
