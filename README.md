@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Aug 2026 : 🚀 basic-finance 5 commits : 🚀 my-buddy 1 commit
+    Aug 2026 : 🚀 my-buddy 9 commits : 🚀 basic-finance 5 commits
     Jul 2026 : 🚀 my-buddy 8 commits
     Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 4 commits
     May 2026 : 🚀 my-buddy 6 commits : 🚀 StreamAgenda 2 commits
@@ -51,25 +51,25 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **121 commits** across **11 repos** in the last 12 months.
+> 🔥 **129 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
+- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 31 Aug 2026_  ·  🚀 32 commits
+  - [`9099e80`](https://github.com/kumudgupta76/my-buddy/commit/9099e804a19d41dde40364c4dd0c960fe25717c7) button reordering
+  - [`dee7cb3`](https://github.com/kumudgupta76/my-buddy/commit/dee7cb36701a196d72e20898f8ccb8f5d36931c1) UI fix
+  - [`6050dcc`](https://github.com/kumudgupta76/my-buddy/commit/6050dcc4c3540612ff23cdf2ee0114c4e4bb9315) Reorder apps with the most used ones first
+  - [`86c68c0`](https://github.com/kumudgupta76/my-buddy/commit/86c68c0f8bfef59b5d0ceb61c59b212dc465b7b3) Align the poster view switcher with the toolbar buttons
+  - [`0afb123`](https://github.com/kumudgupta76/my-buddy/commit/0afb12327a5fbf90814dc9bb993a8d5043886ab5) Hide the OR divider on the auth form
+  - [`9d5d665`](https://github.com/kumudgupta76/my-buddy/commit/9d5d6651e6bd6455db2fc14e9a0455ecd648d281) Add poster view modes, nav icons, and fix mobile layout
+  - …and 26 more commits
 - **[basic-finance](https://github.com/kumudgupta76/basic-finance)** — _last active 28 Aug 2026_  ·  🚀 5 commits
   - [`319a0b4`](https://github.com/kumudgupta76/basic-finance/commit/319a0b4d19b8427e74b28210b7cee6489594b77b) fix
   - [`b2e04e7`](https://github.com/kumudgupta76/basic-finance/commit/b2e04e7742386d9562ed61dc31c17bac4298d540) Enable clickable task lists and persist checklist progress
   - [`9817aab`](https://github.com/kumudgupta76/basic-finance/commit/9817aabe142f71561d163e0431438ef7f6e3a72e) Switch docs site to Material for MkDocs
   - [`cac2d1e`](https://github.com/kumudgupta76/basic-finance/commit/cac2d1e5d2666357c6a676f677c14702b9eec730) Use readable labels for worksheet links instead of raw file paths
   - [`c7d2043`](https://github.com/kumudgupta76/basic-finance/commit/c7d2043cf74bbe2a7c8089470ca05a53bc5c692d) Add 6-week Indian stock market learning site with GitHub Pages deployment
-- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 9 Aug 2026_  ·  🚀 24 commits
-  - [`4850fde`](https://github.com/kumudgupta76/my-buddy/commit/4850fde22510e92dc6bc45f3e7f6b4b53084b664) Persist poster data to local storage
-  - [`c2d6173`](https://github.com/kumudgupta76/my-buddy/commit/c2d6173d7ae03556a3f323e3a72d1b24ee2a9309) Remove CI env debug step now that OMDB key is confirmed in build
-  - [`897a752`](https://github.com/kumudgupta76/my-buddy/commit/897a752ce85608b164772307c648596230af3fe5) Add debug step to verify OMDB/Firebase env presence in CI build
-  - [`5fe80cb`](https://github.com/kumudgupta76/my-buddy/commit/5fe80cb38b0312d4f89ac6f8d75f8c788d2907ea) Add REACT_APP_OMDB_API_KEY to deploy build env so OMDB search works on GitHub Pages
-  - [`00bd691`](https://github.com/kumudgupta76/my-buddy/commit/00bd6913f408f720e531f51d359d126933b2a68c) Add divider between collage settings sections via CSS; revert collage-section-hr approach
-  - [`58cb027`](https://github.com/kumudgupta76/my-buddy/commit/58cb0272a561895747b54d706db7dcdebdfff869) Use collage-section-hr dividers in Names, Caption, and Background tabs
-  - …and 18 more commits
 - **[kumudgupta76](https://github.com/kumudgupta76/kumudgupta76)** — _last active 6 Jun 2026_  ·  🚀 5 commits
   - [`d3f33f4`](https://github.com/kumudgupta76/kumudgupta76/commit/d3f33f41990426ba31fac31804e16250c7060bb8) Add Contribution Calander
   - [`c4f5faf`](https://github.com/kumudgupta76/kumudgupta76/commit/c4f5faf37eadc22fb7aa602e18875e602e1e6958) Make timeline
@@ -114,7 +114,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-08-30 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-08-31 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
