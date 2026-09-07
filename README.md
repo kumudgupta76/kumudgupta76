@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Sep 2026 : 🚀 my-buddy 5 commits
+    Sep 2026 : 🚀 my-buddy 6 commits
     Aug 2026 : 🚀 my-buddy 9 commits : 🚀 basic-finance 5 commits
     Jul 2026 : 🚀 my-buddy 8 commits
     Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 4 commits
@@ -52,19 +52,19 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **134 commits** across **11 repos** in the last 12 months.
+> 🔥 **135 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 5 Sep 2026_  ·  🚀 37 commits
+- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 6 Sep 2026_  ·  🚀 38 commits
+  - [`ffe47f5`](https://github.com/kumudgupta76/my-buddy/commit/ffe47f5b8775367e8100ebe47a9dec24f2fd5f21) Improve Poster Finder pagination and collage controls
   - [`8a56628`](https://github.com/kumudgupta76/my-buddy/commit/8a56628118a7938ca4511087b2a94244bdfe1eac) Improve mobile layouts and navigation, add collage history
   - [`3fd5cdd`](https://github.com/kumudgupta76/my-buddy/commit/3fd5cdd5e8edf6b8c52eb5b49395d02a8677c23f) Merge pull request #2 from kumudgupta76/feature/grocery-tracker
   - [`7a5c64c`](https://github.com/kumudgupta76/my-buddy/commit/7a5c64c02ecf90dae720fe10e968aa44f712d446) Remove grocery seeding now that the sheet data is stored
   - [`90abc82`](https://github.com/kumudgupta76/my-buddy/commit/90abc829a3a5254dc4cf7b1f0bed2fde829ca51f) Seed grocery data from sheet and drive item autocomplete from a catalogue
   - [`ac73e41`](https://github.com/kumudgupta76/my-buddy/commit/ac73e4146cafd65af3a6149dcd6735ed38061222) Add grocery tracker with CSV import/export, insights and cleanup tools
-  - [`9099e80`](https://github.com/kumudgupta76/my-buddy/commit/9099e804a19d41dde40364c4dd0c960fe25717c7) button reordering
-  - …and 31 more commits
+  - …and 32 more commits
 - **[basic-finance](https://github.com/kumudgupta76/basic-finance)** — _last active 28 Aug 2026_  ·  🚀 5 commits
   - [`319a0b4`](https://github.com/kumudgupta76/basic-finance/commit/319a0b4d19b8427e74b28210b7cee6489594b77b) fix
   - [`b2e04e7`](https://github.com/kumudgupta76/basic-finance/commit/b2e04e7742386d9562ed61dc31c17bac4298d540) Enable clickable task lists and persist checklist progress
@@ -115,7 +115,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-09-06 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-09-07 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
