@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Sep 2026 : 🚀 my-buddy 8 commits
+    Sep 2026 : 🚀 my-buddy 9 commits
     Aug 2026 : 🚀 my-buddy 9 commits : 🚀 basic-finance 5 commits
     Jul 2026 : 🚀 my-buddy 8 commits
     Jun 2026 : 🚀 kumudgupta76 5 commits : 🚀 my-buddy 4 commits
@@ -52,19 +52,19 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **137 commits** across **11 repos** in the last 12 months.
+> 🔥 **138 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 13 Sep 2026_  ·  🚀 40 commits
+- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 21 Sep 2026_  ·  🚀 41 commits
+  - [`5dbbf92`](https://github.com/kumudgupta76/my-buddy/commit/5dbbf921eb301be185f123c92906816d1eea07c1) Fix auto complete after tmdb integration
   - [`04ad143`](https://github.com/kumudgupta76/my-buddy/commit/04ad14345240923a0534c18d1ce2520cbaf936c3) fix posters
   - [`989f09a`](https://github.com/kumudgupta76/my-buddy/commit/989f09a478398cf26c9be434f5f58b3b9262e674) integrate tmdb
   - [`ffe47f5`](https://github.com/kumudgupta76/my-buddy/commit/ffe47f5b8775367e8100ebe47a9dec24f2fd5f21) Improve Poster Finder pagination and collage controls
   - [`8a56628`](https://github.com/kumudgupta76/my-buddy/commit/8a56628118a7938ca4511087b2a94244bdfe1eac) Improve mobile layouts and navigation, add collage history
   - [`3fd5cdd`](https://github.com/kumudgupta76/my-buddy/commit/3fd5cdd5e8edf6b8c52eb5b49395d02a8677c23f) Merge pull request #2 from kumudgupta76/feature/grocery-tracker
-  - [`7a5c64c`](https://github.com/kumudgupta76/my-buddy/commit/7a5c64c02ecf90dae720fe10e968aa44f712d446) Remove grocery seeding now that the sheet data is stored
-  - …and 34 more commits
+  - …and 35 more commits
 - **[basic-finance](https://github.com/kumudgupta76/basic-finance)** — _last active 28 Aug 2026_  ·  🚀 5 commits
   - [`319a0b4`](https://github.com/kumudgupta76/basic-finance/commit/319a0b4d19b8427e74b28210b7cee6489594b77b) fix
   - [`b2e04e7`](https://github.com/kumudgupta76/basic-finance/commit/b2e04e7742386d9562ed61dc31c17bac4298d540) Enable clickable task lists and persist checklist progress
@@ -115,7 +115,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-09-20 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-09-21 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
