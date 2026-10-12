@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Oct 2026 : 🚀 my-buddy 3 commits
+    Oct 2026 : 🚀 my-buddy 5 commits
     Sep 2026 : 🚀 my-buddy 9 commits
     Aug 2026 : 🚀 my-buddy 9 commits : 🚀 basic-finance 5 commits
     Jul 2026 : 🚀 my-buddy 8 commits
@@ -53,19 +53,19 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **141 commits** across **11 repos** in the last 12 months.
+> 🔥 **143 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 4 Oct 2026_  ·  🚀 44 commits
+- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 11 Oct 2026_  ·  🚀 46 commits
+  - [`f0f57b1`](https://github.com/kumudgupta76/my-buddy/commit/f0f57b16414778b2cba7aee911102fd918c6eeac) UI improvements
+  - [`a0970bf`](https://github.com/kumudgupta76/my-buddy/commit/a0970bf7ae1c68d201facf2ecbca5d82f25ca6f9) copy caption while downloading images
   - [`2803f19`](https://github.com/kumudgupta76/my-buddy/commit/2803f1900783b985d8400c667b585a8cd52d904a) Update PWA
   - [`caafb83`](https://github.com/kumudgupta76/my-buddy/commit/caafb83e8dd9c91ce128b966f7b8fda4ae871a4b) Improve saved links mobile layout
   - [`3e22915`](https://github.com/kumudgupta76/my-buddy/commit/3e229155187b3a5590bc18523dc4748f08b0c02c) Add private saved links feature
   - [`5dbbf92`](https://github.com/kumudgupta76/my-buddy/commit/5dbbf921eb301be185f123c92906816d1eea07c1) Fix auto complete after tmdb integration
-  - [`04ad143`](https://github.com/kumudgupta76/my-buddy/commit/04ad14345240923a0534c18d1ce2520cbaf936c3) fix posters
-  - [`989f09a`](https://github.com/kumudgupta76/my-buddy/commit/989f09a478398cf26c9be434f5f58b3b9262e674) integrate tmdb
-  - …and 38 more commits
+  - …and 40 more commits
 - **[basic-finance](https://github.com/kumudgupta76/basic-finance)** — _last active 28 Aug 2026_  ·  🚀 5 commits
   - [`319a0b4`](https://github.com/kumudgupta76/basic-finance/commit/319a0b4d19b8427e74b28210b7cee6489594b77b) fix
   - [`b2e04e7`](https://github.com/kumudgupta76/basic-finance/commit/b2e04e7742386d9562ed61dc31c17bac4298d540) Enable clickable task lists and persist checklist progress
@@ -116,7 +116,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-10-11 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-10-12 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
