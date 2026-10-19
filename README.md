@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Oct 2026 : 🚀 my-buddy 6 commits
+    Oct 2026 : 🚀 my-buddy 9 commits : 🚀 basic-finance 1 commit
     Sep 2026 : 🚀 my-buddy 9 commits
     Aug 2026 : 🚀 my-buddy 9 commits : 🚀 basic-finance 5 commits
     Jul 2026 : 🚀 my-buddy 8 commits
@@ -53,25 +53,26 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **144 commits** across **11 repos** in the last 12 months.
+> 🔥 **148 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 13 Oct 2026_  ·  🚀 47 commits
-  - [`71012af`](https://github.com/kumudgupta76/my-buddy/commit/71012aff070797dc26de6f0c6bce04b6e8190e69) Fix poster action buttons wrapping on mobile
-  - [`f0f57b1`](https://github.com/kumudgupta76/my-buddy/commit/f0f57b16414778b2cba7aee911102fd918c6eeac) UI improvements
-  - [`a0970bf`](https://github.com/kumudgupta76/my-buddy/commit/a0970bf7ae1c68d201facf2ecbca5d82f25ca6f9) copy caption while downloading images
-  - [`2803f19`](https://github.com/kumudgupta76/my-buddy/commit/2803f1900783b985d8400c667b585a8cd52d904a) Update PWA
-  - [`caafb83`](https://github.com/kumudgupta76/my-buddy/commit/caafb83e8dd9c91ce128b966f7b8fda4ae871a4b) Improve saved links mobile layout
-  - [`3e22915`](https://github.com/kumudgupta76/my-buddy/commit/3e229155187b3a5590bc18523dc4748f08b0c02c) Add private saved links feature
-  - …and 41 more commits
-- **[basic-finance](https://github.com/kumudgupta76/basic-finance)** — _last active 28 Aug 2026_  ·  🚀 5 commits
+- **[basic-finance](https://github.com/kumudgupta76/basic-finance)** — _last active 19 Oct 2026_  ·  🚀 6 commits
+  - [`01c6160`](https://github.com/kumudgupta76/basic-finance/commit/01c61600fe7e8081fd7eb6cb6848d7c7a1cfc113) add notes for f n o
   - [`319a0b4`](https://github.com/kumudgupta76/basic-finance/commit/319a0b4d19b8427e74b28210b7cee6489594b77b) fix
   - [`b2e04e7`](https://github.com/kumudgupta76/basic-finance/commit/b2e04e7742386d9562ed61dc31c17bac4298d540) Enable clickable task lists and persist checklist progress
   - [`9817aab`](https://github.com/kumudgupta76/basic-finance/commit/9817aabe142f71561d163e0431438ef7f6e3a72e) Switch docs site to Material for MkDocs
   - [`cac2d1e`](https://github.com/kumudgupta76/basic-finance/commit/cac2d1e5d2666357c6a676f677c14702b9eec730) Use readable labels for worksheet links instead of raw file paths
   - [`c7d2043`](https://github.com/kumudgupta76/basic-finance/commit/c7d2043cf74bbe2a7c8089470ca05a53bc5c692d) Add 6-week Indian stock market learning site with GitHub Pages deployment
+- **[my-buddy](https://github.com/kumudgupta76/my-buddy)** — _last active 19 Oct 2026_  ·  🚀 50 commits
+  - [`4f18b50`](https://github.com/kumudgupta76/my-buddy/commit/4f18b509f20a653043713d303a1c678c751497fe) fix title
+  - [`5499f5c`](https://github.com/kumudgupta76/my-buddy/commit/5499f5c8aa1986b6f5a655718f97d4d63a1948bb) Change collage title format in DEFAULT_SETTINGS
+  - [`fd7dcd7`](https://github.com/kumudgupta76/my-buddy/commit/fd7dcd7f975e0268e2d815115b3d39cb24d6e949) Update placeholder text in PosterFinder component
+  - [`71012af`](https://github.com/kumudgupta76/my-buddy/commit/71012aff070797dc26de6f0c6bce04b6e8190e69) Fix poster action buttons wrapping on mobile
+  - [`f0f57b1`](https://github.com/kumudgupta76/my-buddy/commit/f0f57b16414778b2cba7aee911102fd918c6eeac) UI improvements
+  - [`a0970bf`](https://github.com/kumudgupta76/my-buddy/commit/a0970bf7ae1c68d201facf2ecbca5d82f25ca6f9) copy caption while downloading images
+  - …and 44 more commits
 - **[kumudgupta76](https://github.com/kumudgupta76/kumudgupta76)** — _last active 6 Jun 2026_  ·  🚀 5 commits
   - [`d3f33f4`](https://github.com/kumudgupta76/kumudgupta76/commit/d3f33f41990426ba31fac31804e16250c7060bb8) Add Contribution Calander
   - [`c4f5faf`](https://github.com/kumudgupta76/kumudgupta76/commit/c4f5faf37eadc22fb7aa602e18875e602e1e6958) Make timeline
@@ -116,7 +117,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-10-18 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-10-19 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
