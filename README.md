@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Oct 2026 : 🚀 tab-apps 3 commits : 🚀 home 1 commit : 🚀 basic-finance 1 commit
+    Oct 2026 : 🚀 tab-apps 4 commits : 🚀 home 1 commit : 🚀 basic-finance 1 commit
     Aug 2026 : 🚀 basic-finance 5 commits
     Jun 2026 : 🚀 kumudgupta76 5 commits
     May 2026 : 🚀 StreamAgenda 2 commits
@@ -50,11 +50,16 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **102 commits** across **11 repos** in the last 12 months.
+> 🔥 **103 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
+- **[tab-apps](https://github.com/kumudgupta76/tab-apps)** — _last active 23 Oct 2026_  ·  🚀 4 commits
+  - [`f36e216`](https://github.com/kumudgupta76/tab-apps/commit/f36e2167d71e462c01a6291cae08aaf00cb8564d) UI: clock default view, swipe navigation, battery indicator, remove dock, mobile responsive
+  - [`c3ef006`](https://github.com/kumudgupta76/tab-apps/commit/c3ef006bda6a0f28e43557893a7b9a4ecbd326a8) Add clock feature
+  - [`769826a`](https://github.com/kumudgupta76/tab-apps/commit/769826aa5f84ad373d953026771c24b9e3e4ee4d) Add master to deployment
+  - [`789eb59`](https://github.com/kumudgupta76/tab-apps/commit/789eb59ab133fe9551e461a77a80747f90319341) TabDesk
 - **[home](https://github.com/kumudgupta76/home)** — _last active 21 Oct 2026_  ·  🚀 6 commits
   - [`732240d`](https://github.com/kumudgupta76/home/commit/732240d083133a17faa1a36e5106eb6ef0aa831b) Update apps.json by modifying app entries
   - [`d6c91e5`](https://github.com/kumudgupta76/home/commit/d6c91e542140d9e305add2441144b395d54e1fe1) UI change
@@ -62,10 +67,6 @@ timeline
   - [`a6b66a2`](https://github.com/kumudgupta76/home/commit/a6b66a27c11f62197777c79d22ebb1a994cc7ebe) remove default apps
   - [`8db1435`](https://github.com/kumudgupta76/home/commit/8db143543491455c6ff415ea20d7a2f443c2e8a1) Update
   - [`d561337`](https://github.com/kumudgupta76/home/commit/d5613377aea7122fa9f9c1f8cc62a646e8ec1e94) Initial Commit
-- **[tab-apps](https://github.com/kumudgupta76/tab-apps)** — _last active 20 Oct 2026_  ·  🚀 3 commits
-  - [`c3ef006`](https://github.com/kumudgupta76/tab-apps/commit/c3ef006bda6a0f28e43557893a7b9a4ecbd326a8) Add clock feature
-  - [`769826a`](https://github.com/kumudgupta76/tab-apps/commit/769826aa5f84ad373d953026771c24b9e3e4ee4d) Add master to deployment
-  - [`789eb59`](https://github.com/kumudgupta76/tab-apps/commit/789eb59ab133fe9551e461a77a80747f90319341) TabDesk
 - **[basic-finance](https://github.com/kumudgupta76/basic-finance)** — _last active 19 Oct 2026_  ·  🚀 6 commits
   - [`01c6160`](https://github.com/kumudgupta76/basic-finance/commit/01c61600fe7e8081fd7eb6cb6848d7c7a1cfc113) add notes for f n o
   - [`319a0b4`](https://github.com/kumudgupta76/basic-finance/commit/319a0b4d19b8427e74b28210b7cee6489594b77b) fix
@@ -111,7 +112,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-10-23 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-10-24 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
