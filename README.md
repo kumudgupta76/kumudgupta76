@@ -39,7 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
-    Oct 2026 : 🚀 tab-apps 4 commits : 🚀 home 1 commit : 🚀 basic-finance 1 commit
+    Oct 2026 : 🚀 tab-apps 5 commits : 🚀 home 1 commit : 🚀 basic-finance 1 commit
     Aug 2026 : 🚀 basic-finance 5 commits
     Jun 2026 : 🚀 kumudgupta76 5 commits
     May 2026 : 🚀 StreamAgenda 2 commits
@@ -50,12 +50,13 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **103 commits** across **11 repos** in the last 12 months.
+> 🔥 **104 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[tab-apps](https://github.com/kumudgupta76/tab-apps)** — _last active 23 Oct 2026_  ·  🚀 4 commits
+- **[tab-apps](https://github.com/kumudgupta76/tab-apps)** — _last active 26 Oct 2026_  ·  🚀 5 commits
+  - [`3cf6c6a`](https://github.com/kumudgupta76/tab-apps/commit/3cf6c6a166c1bb871a868dee455acc7e4f87a6d1) Upgrade Vite to 6
   - [`f36e216`](https://github.com/kumudgupta76/tab-apps/commit/f36e2167d71e462c01a6291cae08aaf00cb8564d) UI: clock default view, swipe navigation, battery indicator, remove dock, mobile responsive
   - [`c3ef006`](https://github.com/kumudgupta76/tab-apps/commit/c3ef006bda6a0f28e43557893a7b9a4ecbd326a8) Add clock feature
   - [`769826a`](https://github.com/kumudgupta76/tab-apps/commit/769826aa5f84ad373d953026771c24b9e3e4ee4d) Add master to deployment
@@ -112,7 +113,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-10-25 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-10-26 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
