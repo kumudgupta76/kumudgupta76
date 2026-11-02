@@ -39,6 +39,7 @@
 ```mermaid
 timeline
     title 📊 My Coding Activity
+    Nov 2026 : 🚀 tab-apps 3 commits
     Oct 2026 : 🚀 tab-apps 7 commits : 🚀 home 1 commit : 🚀 basic-finance 1 commit
     Aug 2026 : 🚀 basic-finance 5 commits
     Jun 2026 : 🚀 kumudgupta76 5 commits
@@ -50,19 +51,19 @@ timeline
     Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
 ```
 
-> 🔥 **106 commits** across **11 repos** in the last 12 months.
+> 🔥 **109 commits** across **11 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
 
-- **[tab-apps](https://github.com/kumudgupta76/tab-apps)** — _last active 26 Oct 2026_  ·  🚀 7 commits
+- **[tab-apps](https://github.com/kumudgupta76/tab-apps)** — _last active 1 Nov 2026_  ·  🚀 10 commits
+  - [`a1f1d89`](https://github.com/kumudgupta76/tab-apps/commit/a1f1d891018eaf9dc24136ea3fbdda4575d409bd) Put full-screen button in the header corner, right of settings
+  - [`074dcc9`](https://github.com/kumudgupta76/tab-apps/commit/074dcc9ecfa3c342f508137eda42c6836b22ee73) Simplify header; hide spoofed battery readings; move full screen and new theme into Settings
+  - [`711aa51`](https://github.com/kumudgupta76/tab-apps/commit/711aa51cc12bf4bd7c92ef3993b9d477122b9cac) Fix invisible clock digits on tablets; move show-seconds to settings; add new-theme button
   - [`660dc26`](https://github.com/kumudgupta76/tab-apps/commit/660dc269a4d080307938a10ef24b3c094e51cfbe) Fix GitLab Pages CI: node image, build script, publish dist, base path
   - [`4254f19`](https://github.com/kumudgupta76/tab-apps/commit/4254f1981f1495c51eab490479e940a0c2c000b6) Add .gitlab-ci.yml
   - [`3cf6c6a`](https://github.com/kumudgupta76/tab-apps/commit/3cf6c6a166c1bb871a868dee455acc7e4f87a6d1) Upgrade Vite to 6
-  - [`f36e216`](https://github.com/kumudgupta76/tab-apps/commit/f36e2167d71e462c01a6291cae08aaf00cb8564d) UI: clock default view, swipe navigation, battery indicator, remove dock, mobile responsive
-  - [`c3ef006`](https://github.com/kumudgupta76/tab-apps/commit/c3ef006bda6a0f28e43557893a7b9a4ecbd326a8) Add clock feature
-  - [`769826a`](https://github.com/kumudgupta76/tab-apps/commit/769826aa5f84ad373d953026771c24b9e3e4ee4d) Add master to deployment
-  - …and 1 more commits
+  - …and 4 more commits
 - **[home](https://github.com/kumudgupta76/home)** — _last active 21 Oct 2026_  ·  🚀 6 commits
   - [`732240d`](https://github.com/kumudgupta76/home/commit/732240d083133a17faa1a36e5106eb6ef0aa831b) Update apps.json by modifying app entries
   - [`d6c91e5`](https://github.com/kumudgupta76/home/commit/d6c91e542140d9e305add2441144b395d54e1fe1) UI change
@@ -115,7 +116,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-11-01 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-11-02 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
