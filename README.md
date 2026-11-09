@@ -48,10 +48,10 @@ timeline
     Feb 2026 : 🚀 StreamAgenda 4 commits
     Jan 2026 : 🚀 StreamAgenda 30 commits : 🚀 home 5 commits : 🚀 money 3 commits : 🚀 cal-app 2 commits : 🚀 profile 1 commit
     Dec 2025 : 🚀 money 9 commits : 🚀 StreamAgenda 7 commits
-    Nov 2025 : 🚀 profile 1 commit : 🚀 mcp_server_demo 1 commit
+    Nov 2025 : 🚀 profile 1 commit
 ```
 
-> 🔥 **109 commits** across **11 repos** in the last 12 months.
+> 🔥 **108 commits** across **10 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
@@ -116,7 +116,7 @@ timeline
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-11-08 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-11-09 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
