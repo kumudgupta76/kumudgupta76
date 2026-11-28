@@ -48,10 +48,9 @@ timeline
     Feb 2026 : 🚀 StreamAgenda 4 commits
     Jan 2026 : 🚀 StreamAgenda 30 commits : 🚀 home 5 commits : 🚀 money 3 commits : 🚀 cal-app 2 commits : 🚀 profile 1 commit
     Dec 2025 : 🚀 money 9 commits : 🚀 StreamAgenda 7 commits
-    Nov 2025 : 🚀 profile 1 commit
 ```
 
-> 🔥 **108 commits** across **10 repos** in the last 12 months.
+> 🔥 **107 commits** across **10 repos** in the last 12 months.
 
 <details open>
 <summary>📜 Activity by project</summary>
@@ -110,13 +109,12 @@ timeline
 - **[cal-app](https://github.com/kumudgupta76/cal-app)** — _last active 11 Jan 2026_  ·  🚀 2 commits
   - [`f091fb0`](https://github.com/kumudgupta76/cal-app/commit/f091fb0476e4c9b0bbaa58fe5b56cbf528700a89) add master to pipeline
   - [`813be97`](https://github.com/kumudgupta76/cal-app/commit/813be9731ace86167e971563c04c8193266eed7a) Initial commit
-- **[profile](https://github.com/kumudgupta76/profile)** — _last active 11 Jan 2026_  ·  🚀 2 commits
+- **[profile](https://github.com/kumudgupta76/profile)** — _last active 11 Jan 2026_  ·  🚀 1 commit
   - [`d98b0f5`](https://github.com/kumudgupta76/profile/commit/d98b0f56afa55d95ceddd71227d35fed7e20b558) UI update
-  - [`3bb49da`](https://github.com/kumudgupta76/profile/commit/3bb49da98b1b4c00838103353b3d1976184e640e) update experiance
 
 </details>
 
-<sub>⏱️ Auto-updated on 2026-11-27 from my GitHub commit history.</sub>
+<sub>⏱️ Auto-updated on 2026-11-28 from my GitHub commit history.</sub>
 
 <!-- TIMELINE:END -->
 
